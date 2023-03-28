@@ -1,0 +1,10 @@
+[init]
+defaultBranch = main
+[push]
+autoSetupRemote = true
+[user]
+name = Your Name
+email = youremail@provider.com
+[core]
+excludesfile = </Path/To/Home >/.gitignore_global
+editor = code --wait
